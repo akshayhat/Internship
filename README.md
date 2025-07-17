@@ -1,1 +1,6 @@
-# Internship Work
+# J.P. Morgan Software Engineering Virtual Intership
+- The above task was assigned by J.P. Morgan Chase & Co. as part of their online Software Engineering Virtual Internship.
+
+## Overview
+1. # Interface with a stock price data feed
+- As part of the J.P. Morgan Chase & Co. Software Engineering Virtual Internship, I completed a project focused on building a real-time stock price interface using React and Perspective, an open-source data visualization library. I connected to a simulated live stock feed, processed streaming financial data, and displayed it in a responsive and interactive dashboard. Through this, I learned how to handle real-time data pipelines, implement efficient front-end rendering, and work with industry-grade libraries like Perspective. This project strengthened my ability to simulate real-world financial trading environments and taught me how scalable systems are designed in fintech. It has equipped me with valuable skills relevant for high-frequency trading platforms, investment dashboards, and analytics tools. In the broader context, such solutions enable transparency, faster decision-making, and innovation in the financial sector — directly benefiting end users and financial institutions alike.
